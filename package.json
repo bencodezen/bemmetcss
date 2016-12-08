@@ -1,0 +1,11 @@
+{
+  "name": "bemmet",
+  "version": "0.0.1-alpha",
+  "main": "index.js",
+  "repository": "git@gitlab.com:bencodezen/bemmet.git",
+  "author": "Ben Hong <bencodezen@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "webpack": "^1.14.0"
+  }
+}
