@@ -1,0 +1,10 @@
+// ============================================================================
+// Color Property and Values
+// ============================================================================
+
+.c {
+	&-black { color: hsl(0, 0%, 0%); }
+	&-white { color: hsl(0, 0%, 100%); }
+
+	// #IDEA: Provide a standard color palette for prototyping purposes?
+}
