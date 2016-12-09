@@ -1,0 +1,11 @@
+// ============================================================================
+// Align Items Property and Values
+// ============================================================================
+
+.ai {
+	&-b { align-items: baseline; }
+	&-c { align-items: center; }
+	&-fe { align-items: flex-end; }
+	&-fs { align-items: flex-start; }
+	&-s { align-items: stretch; }
+}
