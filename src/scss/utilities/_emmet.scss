@@ -52,3 +52,10 @@
 	&-s { position: static; }
 	&-r { position: relative; }
 }
+
+// Visibility Properties
+.v {
+	&-c { visibility: collapse; }
+	&-h { visibility: hidden; }
+	&-v { visibility: visible; }
+}
