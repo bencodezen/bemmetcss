@@ -1,0 +1,10 @@
+// ============================================================================
+// Text Decoration Property and Values
+// ============================================================================
+
+.td {
+	&-l { text-decoration: line-through;}
+	&-n { text-decoration: none; }
+	&-o { text-decoration: overline; }
+	&-u { text-decoration: underline; }
+}
