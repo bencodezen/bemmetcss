@@ -9,3 +9,10 @@
 	&-n { clear: none; }
 	&-r { clear: right; }
 }
+
+// Float Properties
+.fl {
+	&-l { float: left; }
+	&-n { float: none; }
+	&-r { float: right; }
+}
