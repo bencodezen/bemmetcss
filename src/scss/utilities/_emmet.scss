@@ -44,3 +44,11 @@
 	&-tbr { display: table-row; }
 	&-tbrg { display: table-row-group; }
 }
+
+// Positioning Properties
+.pos {
+	&-a { position: absolute; }
+	&-f { position: fixed; }
+	&-s { position: static; }
+	&-r { position: relative; }
+}
