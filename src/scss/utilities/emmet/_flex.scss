@@ -1,0 +1,35 @@
+// ============================================================================
+// Flex Properties and Values
+// ============================================================================
+
+.fx {
+	&1 { flex: 1; }
+}
+
+.fxb {
+	&100p { flex-basis: 100%; }
+}
+
+.fxd {
+	&-c { flex-direction: column; }
+	&-cr { flex-direction: column-reverse; }
+	&-r { flex-direction: row; }
+	&-rr { flex-direction: row-reverse; }
+}
+
+
+// Omitting Flex Flow
+
+.fxg {
+	&1 { flex-grow: 1; }
+}
+
+.fxs {
+	&1 { flex-shrink: 1; }
+}
+
+.fxw {
+	&-w { flex-wrap: wrap; }
+	&-wr { flex-wrap: wrap-reverse; }
+	&-n { flex-wrap: nowrap; }
+}
