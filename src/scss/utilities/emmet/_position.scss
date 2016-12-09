@@ -8,3 +8,23 @@
 	&-s { position: static; }
 	&-r { position: relative; }
 }
+
+.t {
+	&-a { top: auto; }
+	&0 { top: 0; }
+}
+
+.r {
+	&-a { right: auto; }
+	&0 { right: 0; }
+}
+
+.b {
+	&-a { bottom: auto; }
+	&0 { bottom: 0; }
+}
+
+.l {
+	&-a { left: auto; }
+	&0 { left: 0; }
+}
