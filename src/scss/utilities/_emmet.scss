@@ -25,7 +25,17 @@
 @import "emmet/margin";
 @import "emmet/padding";
 
-// [TODO] Box Sizing
+// Box Sizing
+
+@import "emmet/box-shadow";
+@import "emmet/box-sizing";
+@import "emmet/height";
+@import "emmet/max-height";
+@import "emmet/max-width";
+@import "emmet/min-height";
+@import "emmet/min-width";
+@import "emmet/width";
+
 // [TODO] Font
 // [TODO] Text
 // [TODO] Background
