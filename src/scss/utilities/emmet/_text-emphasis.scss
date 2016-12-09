@@ -1,0 +1,13 @@
+// ============================================================================
+// Text Emphasis Property and Values
+// ============================================================================
+
+.te {
+	&-a { text-emphasis: after; }
+	&-ac { text-emphasis: accent;}
+	&-b { text-emphasis: before; }
+	&-c { text-emphasis: circle; }
+	&-ds { text-emphasis: disc; }
+	&-dt { text-emphasis: dot; }
+	&-n { text-emphasis: none; }
+}
