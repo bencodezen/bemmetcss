@@ -1,0 +1,32 @@
+// ============================================================================
+// Overflow Properties and Values
+// ============================================================================
+
+.ov {
+	&-a { overflow: auto; }
+	&-h { overflow: hidden; }
+	&-s { overflow: scroll; }
+	&-v { overflow: visible; }
+
+	&s {
+		&-a { overflow-style: auto; }
+		&-m { overflow-style: move; }
+		&-mq { overflow-style: marquee; }
+		&-s { overflow-style: scrollbar; }
+		&-p { overflow-style: panner; }
+	}
+
+	&x {
+		&-a { overflow-x: auto; }
+		&-h { overflow-x: hidden; }
+		&-s { overflow-x: scroll; }
+		&-v { overflow-x: visible; }
+	}
+
+	&y {
+		&-a { overflow-y: auto; }
+		&-h { overflow-y: hidden; }
+		&-s { overflow-y: scroll; }
+		&-v { overflow-y: visible; }
+	}
+}

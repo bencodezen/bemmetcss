@@ -1,0 +1,10 @@
+// ============================================================================
+// Position Properties and Values
+// ============================================================================
+
+.pos {
+	&-a { position: absolute; }
+	&-f { position: fixed; }
+	&-s { position: static; }
+	&-r { position: relative; }
+}

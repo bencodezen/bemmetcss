@@ -1,0 +1,30 @@
+// ============================================================================
+// Display Property and Values
+// ============================================================================
+
+.d {
+	&-b { display: block; }
+	&-cp { display: compact; }
+	&-f { display: flex; }
+	&-i { display: inline; }
+	&-ib { display: inline-block; }
+	&-if { display: inline-flex; }
+	&-it { display: inline-table; }
+	&-li { display: list-item; }
+	&-n { display: none; }
+	&-rb { display: ruby; }
+	&-rbb { display: ruby-base; }
+	&-rbbg { display: ruby-base-group; }
+	&-rbt { display: ruby-text; }
+	&-rbtg { display: ruby-text-group; }
+	&-ri { display: run-in; }
+	&-t { display: table; }
+	&-tbc { display: table-cell; }
+	&-tbcl { display: table-column; }
+	&-tbclg { display: table-column-group; }
+	&-tbcp { display: table-caption; }
+	&-tbfg { display: table-footer-group; }
+	&-tbhg { display: table-header-group; }
+	&-tbr { display: table-row; }
+	&-tbrg { display: table-row-group; }
+}
