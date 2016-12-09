@@ -1,0 +1,17 @@
+// ============================================================================
+// Text Align Properties and Values
+// ============================================================================
+
+.ta {
+	&-c { text-align: center; }
+	&-j { text-align: justify; }
+	&-l { text-align: left; }
+	&-r { text-align: right; }
+}
+
+.tal {
+	&-a { text-align-last: auto; }
+	&-c { text-align-last: center; }
+	&-l { text-align-last: left; }
+	&-r { text-align-last: right; }
+}
