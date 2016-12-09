@@ -1,0 +1,28 @@
+// ============================================================================
+// Margin Property and Values
+// ============================================================================
+
+.m {
+	&-a { margin: auto; }
+	&0 { margin: 0; }
+
+	&t {
+		&-a { margin-top: auto; }
+		&0 { margin-top: 0; }
+	}
+
+	&r {
+		&-a { margin-right: auto; }
+		&0 { margin-right: 0; }
+	}
+
+	&b {
+		&-a { margin-bottom: auto; }
+		&0 { margin-bottom: 0; }
+	}
+
+	&l {
+		&-a { margin-left: auto; }
+		&0 { margin-bottom: 0; }
+	}
+}
