@@ -1,0 +1,14 @@
+// ============================================================================
+// Vertical Align Property and Values
+// ============================================================================
+
+.va {
+	&-b { vertical-align: bottom; }
+	&-bl { vertical-align: baseline; }
+	&-m { vertical-align: middle; }
+	&-sub { vertical-align: sub; }
+	&-sup { vertical-align: super; }
+	&-t { vertical-align: top; }
+	&-tb { vertical-align: text-bottom; }
+	&-tt { vertical-align: text-top; }
+}
