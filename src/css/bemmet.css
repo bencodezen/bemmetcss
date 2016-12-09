@@ -469,6 +469,87 @@
 .w100p {
   width: 100%; }
 
+.ta-c {
+  text-align: center; }
+
+.ta-j {
+  text-align: justify; }
+
+.ta-l {
+  text-align: left; }
+
+.ta-r {
+  text-align: right; }
+
+.tal-a {
+  text-align-last: auto; }
+
+.tal-c {
+  text-align-last: center; }
+
+.tal-l {
+  text-align-last: left; }
+
+.tal-r {
+  text-align-last: right; }
+
+.te-a {
+  text-emphasis: after; }
+
+.te-ac {
+  text-emphasis: accent; }
+
+.te-b {
+  text-emphasis: before; }
+
+.te-c {
+  text-emphasis: circle; }
+
+.te-ds {
+  text-emphasis: disc; }
+
+.te-dt {
+  text-emphasis: dot; }
+
+.te-n {
+  text-emphasis: none; }
+
+.td-l {
+  text-decoration: line-through; }
+
+.td-n {
+  text-decoration: none; }
+
+.td-o {
+  text-decoration: overline; }
+
+.td-u {
+  text-decoration: underline; }
+
+.va-b {
+  vertical-align: bottom; }
+
+.va-bl {
+  vertical-align: baseline; }
+
+.va-m {
+  vertical-align: middle; }
+
+.va-sub {
+  vertical-align: sub; }
+
+.va-sup {
+  vertical-align: super; }
+
+.va-t {
+  vertical-align: top; }
+
+.va-tb {
+  vertical-align: text-bottom; }
+
+.va-tt {
+  vertical-align: text-top; }
+
 .c-black {
   color: black; }
 
