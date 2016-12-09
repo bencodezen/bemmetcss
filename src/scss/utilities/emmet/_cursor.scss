@@ -1,0 +1,13 @@
+// ============================================================================
+// Cursor Property and Values
+// ============================================================================
+
+.cur {
+	&a { cursor: auto; }
+	&d { cursor: default; }
+	&ha { cursor: hand; }
+	&he { cursor: help; }
+	&m { cursor: move; }
+	&p { cursor: pointer; }
+	&t { cursor: text; }
+}
