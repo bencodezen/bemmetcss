@@ -1,5 +1,11 @@
 // ============================================================================
-// Styles Manifest
+// Emmet Utility Classes
 // ============================================================================
 
-@import "utilities/emmet";
+// Clear Properties
+.cl {
+	&-b { clear: both; }
+	&-l { clear: left; }
+	&-n { clear: none; }
+	&-r { clear: right; }
+}
