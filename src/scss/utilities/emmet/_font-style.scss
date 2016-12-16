@@ -1,0 +1,13 @@
+// ============================================================================
+// Font Style Property and Values
+// ============================================================================
+
+.fs {
+	&-i { font-style: italic; }
+	&-n { font-style: normal; }
+	&-o { font-style: oblique; }
+
+	&-inh { font-style: inherit; }
+	&-ini { font-style: initial; }
+	&-uns { font-style: unset; }
+}

@@ -517,6 +517,24 @@
 .fw-u {
   font-weight: unset; }
 
+.fs-i {
+  font-style: italic; }
+
+.fs-n {
+  font-style: normal; }
+
+.fs-o {
+  font-style: oblique; }
+
+.fs-inh {
+  font-style: inherit; }
+
+.fs-ini {
+  font-style: initial; }
+
+.fs-uns {
+  font-style: unset; }
+
 .ta-c {
   text-align: center; }
 
