@@ -469,6 +469,30 @@
 .w100p {
   width: 100%; }
 
+.fs-i {
+  font-style: italic; }
+
+.fs-n {
+  font-style: normal; }
+
+.fs-o {
+  font-style: oblique; }
+
+.fs-inh {
+  font-style: inherit; }
+
+.fs-ini {
+  font-style: initial; }
+
+.fs-uns {
+  font-style: unset; }
+
+.fv-n {
+  font-variant: normal; }
+
+.fv-sc {
+  font-variant: small-caps; }
+
 .fw-b {
   font-weight: bold; }
 
@@ -516,24 +540,6 @@
 
 .fw-u {
   font-weight: unset; }
-
-.fs-i {
-  font-style: italic; }
-
-.fs-n {
-  font-style: normal; }
-
-.fs-o {
-  font-style: oblique; }
-
-.fs-inh {
-  font-style: inherit; }
-
-.fs-ini {
-  font-style: initial; }
-
-.fs-uns {
-  font-style: unset; }
 
 .ta-c {
   text-align: center; }
