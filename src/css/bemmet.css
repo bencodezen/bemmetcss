@@ -469,6 +469,54 @@
 .w100p {
   width: 100%; }
 
+.fw-b {
+  font-weight: bold; }
+
+.fw-br {
+  font-weight: bolder; }
+
+.fw-lr {
+  font-weight: lighter; }
+
+.fw-n {
+  font-weight: normal; }
+
+.fw100 {
+  font-weight: 100; }
+
+.fw200 {
+  font-weight: 200; }
+
+.fw300 {
+  font-weight: 300; }
+
+.fw400 {
+  font-weight: 400; }
+
+.fw500 {
+  font-weight: 500; }
+
+.fw600 {
+  font-weight: 600; }
+
+.fw700 {
+  font-weight: 700; }
+
+.fw800 {
+  font-weight: 800; }
+
+.fw900 {
+  font-weight: 900; }
+
+.fw-inh {
+  font-weight: inherit; }
+
+.fw-ini {
+  font-weight: initial; }
+
+.fw-u {
+  font-weight: unset; }
+
 .ta-c {
   text-align: center; }
 
