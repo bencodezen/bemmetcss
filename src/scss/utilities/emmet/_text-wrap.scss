@@ -1,0 +1,10 @@
+// ============================================================================
+// Text Wrap Property and Values
+// ============================================================================
+
+.tw {
+	&-n { text-wrap: normal; }
+	&-no { text-wrap: none; }
+	&-s { text-wrap: suppress; }
+	&-u { text-wrap: unrestricted; }
+}
