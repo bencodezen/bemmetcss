@@ -1,0 +1,8 @@
+// ============================================================================
+// List Style Position Property and Values
+// ============================================================================
+
+.lisp {
+	&-i { list-style-position: inside; }
+	&-o { list-style-position: outside; }
+}

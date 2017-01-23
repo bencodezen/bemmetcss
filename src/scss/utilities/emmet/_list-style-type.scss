@@ -1,15 +1,6 @@
 // ============================================================================
-// Lists Properties and Values
+// List Style Type Properties and Values
 // ============================================================================
-
-.lis {
-	&-n { list-style: none; }
-}
-
-.lisp {
-	&-i { list-style-position: inside; }
-	&-o { list-style-position: outside; }
-}
 
 .list {
 	&-c { list-style-type: circle; }
@@ -20,8 +11,4 @@
 	&-n { list-style-type: none; }
 	&-s { list-style-type: square; }
 	&-ur { list-style-type: upper-roman; }
-}
-
-.lisi {
-	&-n { list-style-image: none; }
 }
