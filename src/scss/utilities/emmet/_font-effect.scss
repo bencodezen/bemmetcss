@@ -1,0 +1,10 @@
+// ============================================================================
+// Font Effect Property and Values
+// ============================================================================
+
+.fef {
+	&-eb { font-effect: emboss; }
+	&-eg { font-effect: engrave; }
+	&-n { font-effect: none; }
+	&-o { font-effect: outline; }
+}
