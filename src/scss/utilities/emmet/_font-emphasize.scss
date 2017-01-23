@@ -1,0 +1,20 @@
+// ============================================================================
+// Font Emphasize Property and Values
+// ============================================================================
+
+.fem {
+	// Font Emphasize Position
+	&p {
+		&-a { font-emphasize-position: after; }
+		&-b { font-emphasize-position: before; }
+	}
+
+	// Font Emphasize Style
+	&s {
+		&-ac { font-emphasize-style: accent; }
+		&-c { font-emphasize-style: circle; }
+		&-ds { font-emphasize-style: disc; }
+		&-dt { font-emphasize-style: dot; }
+		&-n { font-emphasize-style: none; }
+	}
+}
