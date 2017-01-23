@@ -1,0 +1,20 @@
+// ============================================================================
+// White Space Property and Values
+// ============================================================================
+
+.whs {
+	&-n { white-space: normal; }
+	&-nw { white-space: nowrap; }
+	&-p { white-space: pre; }
+	&-pl { white-space: pre-line; }
+	&-pw { white-space: pre-wrap; }
+
+	// White Space Collapse
+	&c {
+		&-ba { white-space-collapse: break-all; }
+		&-bs { white-space-collapse: break-strict; }
+		&-k { white-space-collapse: keep-all; }
+		&-l { white-space-collapse: loose; }
+		&-n { white-space-collapse: normal; }
+	}
+}
