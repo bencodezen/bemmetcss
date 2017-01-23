@@ -1,7 +1,9 @@
 // ============================================================================
-// Flex Properties and Values
+// Flex Wrap Properties and Values
 // ============================================================================
 
-.fx {
-	&1 { flex: 1; }
+.fxw {
+	&-w { flex-wrap: wrap; }
+	&-wr { flex-wrap: wrap-reverse; }
+	&-n { flex-wrap: nowrap; }
 }

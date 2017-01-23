@@ -1,0 +1,10 @@
+// ============================================================================
+// Flex-Direction Properties and Values
+// ============================================================================
+
+.fxd {
+	&-c { flex-direction: column; }
+	&-cr { flex-direction: column-reverse; }
+	&-r { flex-direction: row; }
+	&-rr { flex-direction: row-reverse; }
+}
