@@ -1,0 +1,13 @@
+// ============================================================================
+// Text Justify Property and Values
+// ============================================================================
+
+.tj {
+	&-a { text-justify: auto; }
+	&-d { text-justify: distribute; }
+	&-ic { text-justify: inter-cluster; }
+	&-ii { text-justify: inter-ideograph; }
+	&-iw { text-justify: inter-word; }
+	&-k { text-justify: kashida; }
+	&-t { text-justify: tibetan; }
+}
