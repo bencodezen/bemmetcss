@@ -1,0 +1,11 @@
+// ============================================================================
+// Word Wrap Property and Values
+// ============================================================================
+
+.wow {
+	&-b { word-wrap: break-word; }
+	&-n { word-wrap: none; }
+	&-nm { word-wrap: normal; }
+	&-s { word-wrap: suppress; }
+	&-u { word-wrap: unrestricted; }
+}
