@@ -1,0 +1,15 @@
+// ============================================================================
+// Font Stretch Property and Values
+// ============================================================================
+
+.fst {
+	&-c { font-stretch: condensed; }
+	&-e { font-stretch: expanded; }
+	&-ec { font-stretch: extra-condensed; }
+	&-ee { font-stretch: extra-expanded; }
+	&-n { font-stretch: normal; }
+	&-sc { font-stretch: semi-condensed; }
+	&-se { font-stretch: semi-expanded; }
+	&-uc { font-stretch: ultra-condensed; }
+	&-ue { font-stretch: ultra-expanded; }
+}
