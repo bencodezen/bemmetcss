@@ -3,6 +3,19 @@
 // Emmet Utility Classes
 //
 // Source: http://docs.emmet.io/cheat-sheet/
+//
+// Omitted:
+// - Animation Name
+// - Appearance
+// - Border Spacing
+// - Counter Increment
+// - Counter Reset
+// - Order
+// - Orphans
+// - Outline Offset
+// - Resolution (Max and Min)
+// - Webkit Font Smoothing
+// - Widows
 // ============================================================================
 // ============================================================================
 
@@ -53,6 +66,7 @@
 // [TBD] Text Indent
 @import "emmet/text-justify";
 @import "emmet/text-outline";
+// [TODO] Text Overflow
 @import "emmet/text-replace";
 @import "emmet/text-shadow";
 @import "emmet/text-transform";
@@ -63,23 +77,79 @@
 // [TBD] Word Spacing
 @import "emmet/word-wrap";
 
+// Background [INCOMPLETE]
 // [TODO] Background
+// [TODO] Background Attachment
+// [TODO] Background Break
+// [TODO] Background Clip
+// [TODO] Background Color
+// [TODO] Background Image
+// [TODO] Background Origin
+// [TODO] Background Position
+// [TODO] Background Repeat
+// [TODO] Background Size
 
 // Color
 @import "emmet/color";
 @import "emmet/opacity";
 
-// [TODO] Generated Content
-// [TODO] Outline
-// [TODO] Tables
-// [TODO] Border
+// Generated Content [INCOMPLETE]
+// [TODO] Content
+// [TODO] Quotes
 
-// Lists
+// Outline [INCOMPLETE]
+// [TODO] Outline
+// [TODO] Outline Color
+// [TODO] Outline Style
+// [TODO] Outline Width
+
+// Tables [INCOMPLETE]
+// [TODO] Caption Side
+// [TODO] Empty Cells
+// [TODO] Table Layout
+
+// Border [INCOMPLETE]
+// [TODO] Border
+// [TODO] Border Break
+// [TODO] Border Collapse
+// [TODO] Border Color
+// [TODO] Border Fit
+// [TODO] Border Image
+// [TODO] Border Length
+// [TODO] Border Radius
+// [TODO] Border Style
+
+// Lists [REFACTOR]
 @import "emmet/lists";
 
-// [TODO] Print
+// Print [INCOMPLETE]
+// [TODO] Page Break After
+// [TODO] Page Break Before
+// [TODO] Page Break Inside
 
-// [TODO] Other
+// Flex [INCOMPLETE & REFACTOR]
+// [TODO] Align Content
+// [TODO] Align Items
+// [TODO] Align Self
 @import "emmet/flex";
+// [TODO] Justify Content
+
+// Animation [INCOMPLETE]
+// [TODO] Animation Delay
+// [TODO] Animation Direction
+// [TODO] Animation Duration
+// [TODO] Animation Fill Mode
+// [TODO] Animation Iteration Count
+// [TODO] Animation Play State
+// [TODO] Animation Timing Function
+
+// Other [INCOMPLETE]
 @import "emmet/align-items";
+// [TODO] Backface Visibility
+// [TODO] Columns
 @import "emmet/justify-content";
+// [TODO] Orientation
+// [TODO] Transform
+// [TODO] Transition
+// [TODO] User Select
+// [TODO] Writing Mode
