@@ -469,6 +469,90 @@
 .w100p {
   width: 100%; }
 
+.fef-eb {
+  font-effect: emboss; }
+
+.fef-eg {
+  font-effect: engrave; }
+
+.fef-n {
+  font-effect: none; }
+
+.fef-o {
+  font-effect: outline; }
+
+.femp-a {
+  font-emphasize-position: after; }
+
+.femp-b {
+  font-emphasize-position: before; }
+
+.fems-ac {
+  font-emphasize-style: accent; }
+
+.fems-c {
+  font-emphasize-style: circle; }
+
+.fems-ds {
+  font-emphasize-style: disc; }
+
+.fems-dt {
+  font-emphasize-style: dot; }
+
+.fems-n {
+  font-emphasize-style: none; }
+
+.ff-c {
+  font-family: cursive; }
+
+.ff-f {
+  font-family: fantasy; }
+
+.ff-m {
+  font-family: monospace; }
+
+.ff-s {
+  font-family: serif; }
+
+.ff-ss {
+  font-family: sans-serif; }
+
+.fsm-a {
+  font-smooth: auto; }
+
+.fsm-aw {
+  font-smooth: always; }
+
+.fsm-n {
+  font-smooth: never; }
+
+.fst-c {
+  font-stretch: condensed; }
+
+.fst-e {
+  font-stretch: expanded; }
+
+.fst-ec {
+  font-stretch: extra-condensed; }
+
+.fst-ee {
+  font-stretch: extra-expanded; }
+
+.fst-n {
+  font-stretch: normal; }
+
+.fst-sc {
+  font-stretch: semi-condensed; }
+
+.fst-se {
+  font-stretch: semi-expanded; }
+
+.fst-uc {
+  font-stretch: ultra-condensed; }
+
+.fst-ue {
+  font-stretch: ultra-expanded; }
+
 .fs-i {
   font-style: italic; }
 
@@ -541,6 +625,30 @@
 .fw-u {
   font-weight: unset; }
 
+.lts-n {
+  letter-spacing: normal; }
+
+.lh50 {
+  line-height: 0.5; }
+
+.lh75 {
+  line-height: 0.75; }
+
+.lh100 {
+  line-height: 1; }
+
+.lh125 {
+  line-height: 1.25; }
+
+.lh150 {
+  line-height: 1.5; }
+
+.lh175 {
+  line-height: 1.75; }
+
+.lh200 {
+  line-height: 2; }
+
 .ta-c {
   text-align: center; }
 
@@ -565,6 +673,18 @@
 .tal-r {
   text-align-last: right; }
 
+.td-l {
+  text-decoration: line-through; }
+
+.td-n {
+  text-decoration: none; }
+
+.td-o {
+  text-decoration: overline; }
+
+.td-u {
+  text-decoration: underline; }
+
 .te-a {
   text-emphasis: after; }
 
@@ -586,17 +706,77 @@
 .te-n {
   text-emphasis: none; }
 
-.td-l {
-  text-decoration: line-through; }
+.th-a {
+  text-height: auto; }
 
-.td-n {
-  text-decoration: none; }
+.th-f {
+  text-height: font-size; }
 
-.td-o {
-  text-decoration: overline; }
+.th-m {
+  text-height: max-size; }
 
-.td-u {
-  text-decoration: underline; }
+.th-t {
+  text-height: text-size; }
+
+.tj-a {
+  text-justify: auto; }
+
+.tj-d {
+  text-justify: distribute; }
+
+.tj-ic {
+  text-justify: inter-cluster; }
+
+.tj-ii {
+  text-justify: inter-ideograph; }
+
+.tj-iw {
+  text-justify: inter-word; }
+
+.tj-k {
+  text-justify: kashida; }
+
+.tj-t {
+  text-justify: tibetan; }
+
+.to-n {
+  text-outline: none; }
+
+.tov-c {
+  text-overflow: clip; }
+
+.tov-e {
+  text-overflow: ellipsis; }
+
+.tr-n {
+  text-replace: none; }
+
+.tsh-n {
+  text-shadow: none; }
+
+.tt-c {
+  text-transform: capitalize; }
+
+.tt-l {
+  text-transform: lowercase; }
+
+.tt-n {
+  text-transform: none; }
+
+.tt-u {
+  text-transform: uppercase; }
+
+.tw-n {
+  text-wrap: normal; }
+
+.tw-no {
+  text-wrap: none; }
+
+.tw-s {
+  text-wrap: suppress; }
+
+.tw-u {
+  text-wrap: unrestricted; }
 
 .va-b {
   vertical-align: bottom; }
@@ -622,6 +802,60 @@
 .va-tt {
   vertical-align: text-top; }
 
+.whs-n {
+  white-space: normal; }
+
+.whs-nw {
+  white-space: nowrap; }
+
+.whs-p {
+  white-space: pre; }
+
+.whs-pl {
+  white-space: pre-line; }
+
+.whs-pw {
+  white-space: pre-wrap; }
+
+.whsc-ba {
+  white-space-collapse: break-all; }
+
+.whsc-bs {
+  white-space-collapse: break-strict; }
+
+.whsc-k {
+  white-space-collapse: keep-all; }
+
+.whsc-l {
+  white-space-collapse: loose; }
+
+.whsc-n {
+  white-space-collapse: normal; }
+
+.wob-ba {
+  word-break: break-all; }
+
+.wob-k {
+  word-break: keep-all; }
+
+.wob-n {
+  word-break: normal; }
+
+.wow-b {
+  word-wrap: break-word; }
+
+.wow-n {
+  word-wrap: none; }
+
+.wow-nm {
+  word-wrap: normal; }
+
+.wow-s {
+  word-wrap: suppress; }
+
+.wow-u {
+  word-wrap: unrestricted; }
+
 .c-black {
   color: black; }
 
@@ -636,6 +870,9 @@
 
 .lis-n {
   list-style: none; }
+
+.lisi-n {
+  list-style-image: none; }
 
 .lisp-i {
   list-style-position: inside; }
@@ -666,9 +903,6 @@
 
 .list-ur {
   list-style-type: upper-roman; }
-
-.lisi-n {
-  list-style-image: none; }
 
 .fx1 {
   flex: 1; }
