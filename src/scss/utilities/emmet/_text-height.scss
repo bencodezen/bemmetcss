@@ -1,0 +1,10 @@
+// ============================================================================
+// Text Height Property and Values
+// ============================================================================
+
+.th {
+	&-a { text-height: auto; }
+	&-f { text-height: font-size; }
+	&-m { text-height: max-size; }
+	&-t { text-height: text-size; }
+}
