@@ -1,0 +1,12 @@
+// ============================================================================
+// Font Family Property and Values
+// ============================================================================
+
+// Enhancement: Have a standard stack of fonts for each set
+.ff {
+	&-c { font-family: cursive; }
+	&-f { font-family: fantasy; }
+	&-m { font-family: monospace; }
+	&-s { font-family: serif; }
+	&-ss { font-family: sans-serif; }
+}
