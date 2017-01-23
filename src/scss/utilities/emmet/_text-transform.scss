@@ -1,0 +1,10 @@
+// ============================================================================
+// Text Transform Property and Values
+// ============================================================================
+
+.tt {
+	&-c { text-transform: capitalize; }
+	&-l { text-transform: lowercase; }
+	&-n { text-transform: none; }
+	&-u { text-transform: uppercase; }
+}
