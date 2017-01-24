@@ -106,10 +106,10 @@
 // [TODO] Outline Style
 // [TODO] Outline Width
 
-// Tables [INCOMPLETE]
-// [TODO] Caption Side
-// [TODO] Empty Cells
-// [TODO] Table Layout
+// Tables
+@import "emmet/caption-side";
+@import "emmet/empty-cells";
+@import "emmet/table-layout";
 
 // Border [INCOMPLETE]
 // [TODO] Border

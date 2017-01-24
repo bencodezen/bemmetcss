@@ -955,6 +955,24 @@
 .op1 {
   opacity: 1; }
 
+.cps-b {
+  caption-side: bottom; }
+
+.cps-t {
+  caption-side: top; }
+
+.ec-h {
+  empty-cells: hide; }
+
+.ec-s {
+  empty-cells: show; }
+
+.tbl-a {
+  table-layout: auto; }
+
+.tbl-f {
+  table-layout: fixed; }
+
 .lis-n {
   list-style: none; }
 
