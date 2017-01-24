@@ -1,0 +1,10 @@
+// ============================================================================
+// Background Clip Property and Values
+// ============================================================================
+
+.bgcp {
+	&-cb { background-clip: content-box; }
+	&-bb { background-clip: border-box; }
+	&-nc { background-clip: no-clip; }
+	&-pb { background-clip: padding-box; }
+}

@@ -856,6 +856,93 @@
 .wow-u {
   word-wrap: unrestricted; }
 
+.bg-n {
+  background: none; }
+
+.bga-f {
+  background-attachment: fixed; }
+
+.bga-s {
+  background-attachment: scroll; }
+
+.bgbk-bb {
+  background-break: bounding-box; }
+
+.bgbk-c {
+  background-break: continuous; }
+
+.bgbk-eb {
+  background-break: each-box; }
+
+.bgcp-cb {
+  background-clip: content-box; }
+
+.bgcp-bb {
+  background-clip: border-box; }
+
+.bgcp-nc {
+  background-clip: no-clip; }
+
+.bgcp-pb {
+  background-clip: padding-box; }
+
+.bgc-t {
+  background-color: transparent; }
+
+.bgi-n {
+  background-image: none; }
+
+.bgo-bb {
+  background-origin: border-box; }
+
+.bgo-cb {
+  background-origin: content-box; }
+
+.bgo-pb {
+  background-origin: padding-box; }
+
+.bgpx-c {
+  background-position-x: center; }
+
+.bgpx-l {
+  background-position-x: left; }
+
+.bgpx-r {
+  background-position-x: right; }
+
+.bgpy-b {
+  background-position-y: bottom; }
+
+.bgpy-c {
+  background-position-y: center; }
+
+.bgpy-t {
+  background-position-y: top; }
+
+.bgr-n {
+  background-repeat: no-repeat; }
+
+.bgr-sp {
+  background-repeat: space; }
+
+.bgr-rd {
+  background-repeat: round; }
+
+.bgr-x {
+  background-repeat: repeat-x; }
+
+.bgr-y {
+  background-repeat: repeat-y; }
+
+.bgsz-a {
+  background-size: auto; }
+
+.bgsz-ct {
+  background-size: contain; }
+
+.bgsz-cv {
+  background-size: cover; }
+
 .c-black {
   color: black; }
 

@@ -80,17 +80,17 @@
 @import "emmet/word-break";
 @import "emmet/word-wrap";
 
-// Background [INCOMPLETE]
-// [TODO] Background
-// [TODO] Background Attachment
-// [TODO] Background Break
-// [TODO] Background Clip
-// [TODO] Background Color
-// [TODO] Background Image
-// [TODO] Background Origin
-// [TODO] Background Position
-// [TODO] Background Repeat
-// [TODO] Background Size
+// Background
+@import "emmet/background";
+@import "emmet/background-attachment";
+@import "emmet/background-break";
+@import "emmet/background-clip";
+@import "emmet/background-color";
+@import "emmet/background-image";
+@import "emmet/background-origin";
+@import "emmet/background-position";
+@import "emmet/background-repeat";
+@import "emmet/background-size";
 
 // Color
 @import "emmet/color";

@@ -1,0 +1,11 @@
+// ============================================================================
+// Background Repeat Property and Values
+// ============================================================================
+
+.bgr {
+	&-n { background-repeat: no-repeat; }
+	&-sp { background-repeat: space; }
+	&-rd { background-repeat: round; }
+	&-x { background-repeat: repeat-x; }
+	&-y { background-repeat: repeat-y; }
+}

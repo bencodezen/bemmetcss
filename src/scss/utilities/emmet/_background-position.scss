@@ -1,0 +1,18 @@
+// ============================================================================
+// Background Position Property and Values
+// ============================================================================
+
+// Enhancement: Standard Values?
+.bgp {
+	&x {
+		&-c { background-position-x: center; }
+		&-l { background-position-x: left; }
+		&-r { background-position-x: right; }
+	}
+
+	&y {
+		&-b { background-position-y: bottom; }
+		&-c { background-position-y: center; }
+		&-t { background-position-y: top; }
+	}
+}

@@ -1,0 +1,9 @@
+// ============================================================================
+// Background Origin Property and Values
+// ============================================================================
+
+.bgo {
+	&-bb { background-origin: border-box; }
+	&-cb { background-origin: content-box; }
+	&-pb { background-origin: padding-box; }
+}

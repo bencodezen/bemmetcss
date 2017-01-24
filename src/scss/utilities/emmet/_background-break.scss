@@ -1,0 +1,9 @@
+// ============================================================================
+// Background Break Property and Values
+// ============================================================================
+
+.bgbk {
+	&-bb { background-break: bounding-box; }
+	&-c { background-break: continuous; }
+	&-eb { background-break: each-box; }
+}

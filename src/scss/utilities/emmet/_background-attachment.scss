@@ -1,0 +1,8 @@
+// ============================================================================
+// Background Attachment Property and Values
+// ============================================================================
+
+.bga {
+	&-f { background-attachment: fixed; }
+	&-s { background-attachment: scroll; }
+}

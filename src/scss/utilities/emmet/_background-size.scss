@@ -1,0 +1,9 @@
+// ============================================================================
+// Background Size Property and Values
+// ============================================================================
+
+.bgsz {
+	&-a { background-size: auto; }
+	&-ct { background-size: contain; }
+	&-cv { background-size: cover; }
+}
