@@ -1,0 +1,12 @@
+// ============================================================================
+// Align Self Property and Values
+// ============================================================================
+
+.as {
+	&-a { align-self: auto; }
+	&-b { align-self: baseline; }
+	&-c { align-self: center; }
+	&-fe { align-self: flex-end; }
+	&-fs { align-self: flex-start; }
+	&-s { align-self: stretch; }
+}

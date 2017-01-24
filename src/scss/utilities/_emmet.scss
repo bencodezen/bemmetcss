@@ -133,17 +133,17 @@
 // [TODO] Page Break Before
 // [TODO] Page Break Inside
 
-// Flex [INCOMPLETE]
-// [TODO] Align Content
-// [TODO] Align Items
-// [TODO] Align Self
+// Flex
+@import "emmet/align-content";
+@import "emmet/align-items";
+@import "emmet/align-self";
 @import "emmet/flex";
 @import "emmet/flex-basis";
 @import "emmet/flex-direction";
 @import "emmet/flex-grow";
 @import "emmet/flex-shrink";
 @import "emmet/flex-wrap";
-// [TODO] Justify Content
+@import "emmet/justify-content";
 
 // Animation [INCOMPLETE]
 // [TODO] Animation Delay
@@ -155,10 +155,8 @@
 // [TODO] Animation Timing Function
 
 // Other [INCOMPLETE]
-@import "emmet/align-items";
 // [TODO] Backface Visibility
 // [TODO] Columns
-@import "emmet/justify-content";
 // [TODO] Orientation
 // [TODO] Transform
 // [TODO] Transition
