@@ -955,6 +955,29 @@
 .op1 {
   opacity: 1; }
 
+.cnt-cq,
+.ct-cq {
+  content: close-quote; }
+
+.cnt-n,
+.ct-n {
+  content: normal; }
+
+.cnt-ncq,
+.ct-ncq {
+  content: no-close-quote; }
+
+.cnt-noq,
+.ct-noq {
+  content: no-open-quote; }
+
+.cnt-oq,
+.ct-oq {
+  content: open-quote; }
+
+.q-n {
+  quotes: none; }
+
 .cps-b {
   caption-side: bottom; }
 

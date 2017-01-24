@@ -1,0 +1,12 @@
+// ============================================================================
+// Content Property and Values
+// ============================================================================
+
+.cnt,
+.ct {
+	&-cq { content: close-quote; }
+	&-n { content: normal; }
+	&-ncq { content: no-close-quote; }
+	&-noq { content: no-open-quote; }
+	&-oq { content: open-quote; }
+}
