@@ -145,14 +145,14 @@
 @import "emmet/flex-wrap";
 @import "emmet/justify-content";
 
-// Animation [INCOMPLETE]
-// [TODO] Animation Delay
-// [TODO] Animation Direction
-// [TODO] Animation Duration
-// [TODO] Animation Fill Mode
-// [TODO] Animation Iteration Count
-// [TODO] Animation Play State
-// [TODO] Animation Timing Function
+// Animation
+@import "emmet/animation-delay";
+@import "emmet/animation-direction";
+@import "emmet/animation-duration";
+@import "emmet/animation-fill-mode";
+@import "emmet/animation-iteration-count";
+@import "emmet/animation-play-state";
+@import "emmet/animation-timing-function";
 
 // Other [INCOMPLETE]
 // [TODO] Backface Visibility

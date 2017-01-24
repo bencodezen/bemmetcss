@@ -1,0 +1,12 @@
+// ============================================================================
+// Animation Fill Mode Property and Values
+// ============================================================================
+
+.animfm {
+	&-b { animation-fill-mode: backwards; }
+	&-bh,
+	&-bt {
+		animation-fill-mode: both;
+	}
+	&-f { animation-fill-mode: forwards; }
+}

@@ -1,0 +1,10 @@
+// ============================================================================
+// Animation Direction Property and Values
+// ============================================================================
+
+.animdir {
+	&-a { animation-direction: alternate; }
+	&-ar { animation-direction: alternate-reverse; }
+	&-n { animation-direction: normal; }
+	&-r { animation-direction: reverse; }
+}

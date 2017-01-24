@@ -1107,3 +1107,75 @@
 
 .jc-sb {
   justify-content: space-between; }
+
+.animdel100 {
+  animation-delay: 1s; }
+
+.animdel200 {
+  animation-delay: 2s; }
+
+.animdel300 {
+  animation-delay: 3s; }
+
+.animdir-a {
+  animation-direction: alternate; }
+
+.animdir-ar {
+  animation-direction: alternate-reverse; }
+
+.animdir-n {
+  animation-direction: normal; }
+
+.animdir-r {
+  animation-direction: reverse; }
+
+.animdur100 {
+  animation-duration: 1s; }
+
+.animdur200 {
+  animation-duration: 2s; }
+
+.animdur300 {
+  animation-duration: 3s; }
+
+.animfm-b {
+  animation-fill-mode: backwards; }
+
+.animfm-bh, .animfm-bt {
+  animation-fill-mode: both; }
+
+.animfm-f {
+  animation-fill-mode: forwards; }
+
+.animic1 {
+  animation-iteration-count: 1; }
+
+.animic2 {
+  animation-iteration-count: 2; }
+
+.animic3 {
+  animation-iteration-count: 3; }
+
+.animic-i {
+  animation-iteration-count: infinite; }
+
+.animps-p {
+  animation-play-state: paused; }
+
+.animps-r {
+  animation-play-state: running; }
+
+.animtf-e {
+  animation-timing-function: ease; }
+
+.animtf-ei {
+  animation-timing-function: ease-in; }
+
+.animtf-eio {
+  animation-timing-function: ease-in-out; }
+
+.animtf-eo {
+  animation-timing-function: ease-out; }
+
+.animtf-l {
+  animation-timing-function: linear; }

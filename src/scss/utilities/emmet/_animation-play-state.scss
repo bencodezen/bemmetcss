@@ -1,0 +1,8 @@
+// ============================================================================
+// Animation Play State Propety and Values
+// ============================================================================
+
+.animps {
+	&-p { animation-play-state: paused; }
+	&-r { animation-play-state: running; }
+}

@@ -1,0 +1,9 @@
+// ============================================================================
+// Animation Duration Property and Values
+// ============================================================================
+
+.animdur {
+	&100 { animation-duration: 1s; }
+	&200 { animation-duration: 2s; }
+	&300 { animation-duration: 3s; }
+}

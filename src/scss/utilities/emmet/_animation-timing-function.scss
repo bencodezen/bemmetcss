@@ -1,0 +1,11 @@
+// ============================================================================
+// Animation Timing Function Property and Values
+// ============================================================================
+
+.animtf {
+	&-e { animation-timing-function: ease; }
+	&-ei { animation-timing-function: ease-in; }
+	&-eio { animation-timing-function: ease-in-out; }
+	&-eo { animation-timing-function: ease-out; }
+	&-l { animation-timing-function: linear; }
+}
