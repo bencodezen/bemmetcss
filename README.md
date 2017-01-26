@@ -2,7 +2,7 @@
 
 Where the best of both worlds of CSS Architecture naming methodologies like BEM meet the compact and effective approaches like functional programming.
 
-## Setup
+## Installation
 
 **Requirements:**
 
@@ -20,3 +20,7 @@ Ever get tired of sitting there trying to come up with the perfect naming schema
 Bemmet is a system designed to be a prototype-first system which then grows into the appropriate CSS architecture desired. It provides some basic guidelines for prototyping, but we know the flaw with being overly opinionated; so the key thing with this is flexibility.
 
 More guidelines to come as we finalize our thoughts and ideas for how to grow your own organic and home-grown CSS architecture.
+
+## Meta
+
+Hung-su Nguyen - [@HungSu](https://twitter.com/hungsu) & Ben Hong – [@BenCodeZen](https://twitter.com/bencodezen)
