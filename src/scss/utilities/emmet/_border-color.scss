@@ -1,0 +1,30 @@
+// ============================================================================
+// Border Color Property and Values
+// ============================================================================
+
+.bd {
+	// Border Color
+	&c {
+		&-t { border-color: transparent; }
+	}
+
+	// Border Left Color
+	&lc {
+		&-t { border-left-color: transparent; }
+	}
+
+	// Border Top Color
+	&tc {
+		&-t { border-top-color: transparent; }
+	}
+
+	// Border Right Color
+	&rc {
+		&-t { border-right-color: transparent; }
+	}
+
+	// Border Bottom Color
+	&bc {
+		&-t { border-bottom-color: transparent; }
+	}
+}

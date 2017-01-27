@@ -1,0 +1,62 @@
+// ============================================================================
+// Border Image Properties and Values
+// ============================================================================
+
+.bd {
+	// Border Image
+	&i {
+		&-n { border-image: none; }
+	}
+
+	// Border Left Image
+	&li {
+		&-n { border-left-image: none; }
+	}
+
+	// Border Top
+	&t {
+		// Border Top Left Image
+		&li {
+			&-n { border-top-left-image: none; }
+		}
+
+		// Border Top Image
+		&i {
+			&-n { border-top-image: none; }
+		}
+
+		// Border Top Right Image
+		&ri {
+			&-m { border-top-right-image: none; }
+		}
+	}
+
+	// Border Right Image
+	&ri {
+		&-n { border-right-image: none; }
+	}
+
+	// Border Bottom
+	&b {
+		// Border Bottom Right Image
+		&ri {
+			&-n { border-bottom-right-image: none; }
+		}
+
+		// Border Bottom Image
+		&i {
+			&-n { border-bottom-image: none; }
+		}
+
+		// Border Bottom Left Image
+		&li {
+			&-n { border-bottom-left-image: none; }
+		}
+	}
+
+	// Border Corner Image
+	&ci {
+		&-c { border-corner-image: continue; }
+		&-n { border-corner-image: none; }
+	}
+}

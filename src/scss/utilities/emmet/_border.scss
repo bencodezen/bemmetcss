@@ -1,0 +1,32 @@
+// ============================================================================
+// Border Property and Values
+// ============================================================================
+
+.bd {
+	&0 { border: 0; }
+	&-n { border: none; }
+
+	// Border Left
+	&l {
+		&0 { border-left: 0; }
+		&-n { border-left: none; }
+	}
+
+	// Border Top
+	&t {
+		&0 { border-top: 0; }
+		&-n { border-top: none; }
+	}
+
+	// Border Right
+	&r {
+		&0 { border-right: 0; }
+		&-n { border-right: none; }
+	}
+
+	// Border Bottom
+	&b {
+		&0 { border-bottom: 0; }
+		&-n { border-bottom: none; }
+	}
+}

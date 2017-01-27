@@ -1,0 +1,40 @@
+// ============================================================================
+// Border Radius Property and Values
+// ============================================================================
+
+.bd {
+	// Border Radius
+	&rs {
+		&0 { border-radius: 0; }
+		&50p { border-radius: 50%; }
+		&100p { border-radius: 100%; }
+	}
+
+	// Border Top Right Radius
+	&trrs {
+		&0 { border-top-right-radius: 0; }
+		&50p { border-top-right-radius: 50%; }
+		&100p { border-top-right-radius: 100%; }
+	}
+
+	// Border Top Left Radius
+	&tlrs {
+		&0 { border-top-left-radius: 0; }
+		&50p { border-top-left-radius: 50%; }
+		&100p { border-top-left-radius: 100%; }
+	}
+
+	// Border Bottom Right Radius
+	&brrs {
+		&0 { border-bottom-right-radius: 0; }
+		&50p { border-bottom-right-radius: 50%; }
+		&100p { border-bottom-right-radius: 100%; }
+	}
+
+	// Border Bottom Left Radius
+	&blrs {
+		&0 { border-bottom-left-radius: 0; }
+		&50p { border-bottom-left-radius: 50%; }
+		&100p { border-bottom-left-radius: 100%; }
+	}
+}

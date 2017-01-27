@@ -1,0 +1,13 @@
+// ============================================================================
+// Border Fit Property and Values
+// ============================================================================
+
+.bdf {
+	&-c { border-fit: clip; }
+	&-r { border-fit: repeat; }
+	&-of { border-fit: overflow; }
+	&-ow { border-fit: overwrite; }
+	&-sc { border-fit: scale; }
+	&-sp { border-fit: space; }
+	&-st { border-fit: stretch; }
+}

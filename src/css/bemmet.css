@@ -1035,6 +1035,312 @@
 .tbl-f {
   table-layout: fixed; }
 
+.bd0 {
+  border: 0; }
+
+.bd-n {
+  border: none; }
+
+.bdl0 {
+  border-left: 0; }
+
+.bdl-n {
+  border-left: none; }
+
+.bdt0 {
+  border-top: 0; }
+
+.bdt-n {
+  border-top: none; }
+
+.bdr0 {
+  border-right: 0; }
+
+.bdr-n {
+  border-right: none; }
+
+.bdb0 {
+  border-bottom: 0; }
+
+.bdb-n {
+  border-bottom: none; }
+
+.bdbk-c {
+  border-break: close; }
+
+.bdcl-c {
+  border-collapse: collapse; }
+
+.bdcl-s {
+  border-collapse: separate; }
+
+.bdc-t {
+  border-color: transparent; }
+
+.bdlc-t {
+  border-left-color: transparent; }
+
+.bdtc-t {
+  border-top-color: transparent; }
+
+.bdrc-t {
+  border-right-color: transparent; }
+
+.bdbc-t {
+  border-bottom-color: transparent; }
+
+.bdf-c {
+  border-fit: clip; }
+
+.bdf-r {
+  border-fit: repeat; }
+
+.bdf-of {
+  border-fit: overflow; }
+
+.bdf-ow {
+  border-fit: overwrite; }
+
+.bdf-sc {
+  border-fit: scale; }
+
+.bdf-sp {
+  border-fit: space; }
+
+.bdf-st {
+  border-fit: stretch; }
+
+.bdi-n {
+  border-image: none; }
+
+.bdli-n {
+  border-left-image: none; }
+
+.bdtli-n {
+  border-top-left-image: none; }
+
+.bdti-n {
+  border-top-image: none; }
+
+.bdtri-m {
+  border-top-right-image: none; }
+
+.bdri-n {
+  border-right-image: none; }
+
+.bdbri-n {
+  border-bottom-right-image: none; }
+
+.bdbi-n {
+  border-bottom-image: none; }
+
+.bdbli-n {
+  border-bottom-left-image: none; }
+
+.bdci-c {
+  border-corner-image: continue; }
+
+.bdci-n {
+  border-corner-image: none; }
+
+.bdlen-a {
+  border-length: auto; }
+
+.bdrs0 {
+  border-radius: 0; }
+
+.bdrs50p {
+  border-radius: 50%; }
+
+.bdrs100p {
+  border-radius: 100%; }
+
+.bdtrrs0 {
+  border-top-right-radius: 0; }
+
+.bdtrrs50p {
+  border-top-right-radius: 50%; }
+
+.bdtrrs100p {
+  border-top-right-radius: 100%; }
+
+.bdtlrs0 {
+  border-top-left-radius: 0; }
+
+.bdtlrs50p {
+  border-top-left-radius: 50%; }
+
+.bdtlrs100p {
+  border-top-left-radius: 100%; }
+
+.bdbrrs0 {
+  border-bottom-right-radius: 0; }
+
+.bdbrrs50p {
+  border-bottom-right-radius: 50%; }
+
+.bdbrrs100p {
+  border-bottom-right-radius: 100%; }
+
+.bdblrs0 {
+  border-bottom-left-radius: 0; }
+
+.bdblrs50p {
+  border-bottom-left-radius: 50%; }
+
+.bdblrs100p {
+  border-bottom-left-radius: 100%; }
+
+.bds-db {
+  border-style: double; }
+
+.bds-ds {
+  border-style: dashed; }
+
+.bds-dt {
+  border-style: dotted; }
+
+.bds-g {
+  border-style: groove; }
+
+.bds-h {
+  border-style: hidden; }
+
+.bds-i {
+  border-style: inset; }
+
+.bds-n {
+  border-style: none; }
+
+.bds-o {
+  border-style: outset; }
+
+.bds-r {
+  border-style: ridge; }
+
+.bds-s {
+  border-style: solid; }
+
+.bdls-db {
+  border-left-style: double; }
+
+.bdls-ds {
+  border-left-style: dashed; }
+
+.bdls-dt {
+  border-left-style: dotted; }
+
+.bdls-g {
+  border-left-style: groove; }
+
+.bdls-h {
+  border-left-style: hidden; }
+
+.bdls-i {
+  border-left-style: inset; }
+
+.bdls-n {
+  border-left-style: none; }
+
+.bdls-o {
+  border-left-style: outset; }
+
+.bdls-r {
+  border-left-style: ridge; }
+
+.bdls-s {
+  border-left-style: solid; }
+
+.bdts-db {
+  border-top-style: double; }
+
+.bdts-ds {
+  border-top-style: dashed; }
+
+.bdts-dt {
+  border-top-style: dotted; }
+
+.bdts-g {
+  border-top-style: groove; }
+
+.bdts-h {
+  border-top-style: hidden; }
+
+.bdts-i {
+  border-top-style: inset; }
+
+.bdts-n {
+  border-top-style: none; }
+
+.bdts-o {
+  border-top-style: outset; }
+
+.bdts-r {
+  border-top-style: ridge; }
+
+.bdts-s {
+  border-top-style: solid; }
+
+.bdrst-db {
+  border-right-style: double; }
+
+.bdrst-ds {
+  border-right-style: dashed; }
+
+.bdrst-dt {
+  border-right-style: dotted; }
+
+.bdrst-g {
+  border-right-style: groove; }
+
+.bdrst-h {
+  border-right-style: hidden; }
+
+.bdrst-i {
+  border-right-style: inset; }
+
+.bdrst-n {
+  border-right-style: none; }
+
+.bdrst-o {
+  border-right-style: outset; }
+
+.bdrst-r {
+  border-right-style: ridge; }
+
+.bdrst-s {
+  border-right-style: solid; }
+
+.bdbs-db {
+  border-bottom-style: double; }
+
+.bdbs-ds {
+  border-bottom-style: dashed; }
+
+.bdbs-dt {
+  border-bottom-style: dotted; }
+
+.bdbs-g {
+  border-bottom-style: groove; }
+
+.bdbs-h {
+  border-bottom-style: hidden; }
+
+.bdbs-i {
+  border-bottom-style: inset; }
+
+.bdbs-n {
+  border-bottom-style: none; }
+
+.bdbs-o {
+  border-bottom-style: outset; }
+
+.bdbs-r {
+  border-bottom-style: ridge; }
+
+.bdbs-s {
+  border-bottom-style: solid; }
+
 .lis-n {
   list-style: none; }
 

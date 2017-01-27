@@ -111,16 +111,16 @@
 @import "emmet/empty-cells";
 @import "emmet/table-layout";
 
-// Border [INCOMPLETE]
-// [TODO] Border
-// [TODO] Border Break
-// [TODO] Border Collapse
-// [TODO] Border Color
-// [TODO] Border Fit
-// [TODO] Border Image
-// [TODO] Border Length
-// [TODO] Border Radius
-// [TODO] Border Style
+// Border
+@import "emmet/border";
+@import "emmet/border-break";
+@import "emmet/border-collapse";
+@import "emmet/border-color";
+@import "emmet/border-fit";
+@import "emmet/border-image";
+@import "emmet/border-length";
+@import "emmet/border-radius";
+@import "emmet/border-style";
 
 // Lists
 @import "emmet/list-style";

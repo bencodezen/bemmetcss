@@ -1,0 +1,75 @@
+// ============================================================================
+// Border Style Property and Values
+// ============================================================================
+
+.bd {
+	// Border Style
+	&s {
+		&-db { border-style: double; }
+		&-ds { border-style: dashed; }
+		&-dt { border-style: dotted; }
+		&-g { border-style: groove; }
+		&-h { border-style: hidden; }
+		&-i { border-style: inset; }
+		&-n { border-style: none; }
+		&-o { border-style: outset; }
+		&-r { border-style: ridge; }
+		&-s { border-style: solid; }
+	}
+
+	// Border Left Style
+	&ls {
+		&-db { border-left-style: double; }
+		&-ds { border-left-style: dashed; }
+		&-dt { border-left-style: dotted; }
+		&-g { border-left-style: groove; }
+		&-h { border-left-style: hidden; }
+		&-i { border-left-style: inset; }
+		&-n { border-left-style: none; }
+		&-o { border-left-style: outset; }
+		&-r { border-left-style: ridge; }
+		&-s { border-left-style: solid; }
+	}
+
+	// Border Top Style
+	&ts {
+		&-db { border-top-style: double; }
+		&-ds { border-top-style: dashed; }
+		&-dt { border-top-style: dotted; }
+		&-g { border-top-style: groove; }
+		&-h { border-top-style: hidden; }
+		&-i { border-top-style: inset; }
+		&-n { border-top-style: none; }
+		&-o { border-top-style: outset; }
+		&-r { border-top-style: ridge; }
+		&-s { border-top-style: solid; }
+	}
+
+	// Border Right Style
+	&rst {
+		&-db { border-right-style: double; }
+		&-ds { border-right-style: dashed; }
+		&-dt { border-right-style: dotted; }
+		&-g { border-right-style: groove; }
+		&-h { border-right-style: hidden; }
+		&-i { border-right-style: inset; }
+		&-n { border-right-style: none; }
+		&-o { border-right-style: outset; }
+		&-r { border-right-style: ridge; }
+		&-s { border-right-style: solid; }
+	}
+
+	// Border Bottom Style
+	&bs {
+		&-db { border-bottom-style: double; }
+		&-ds { border-bottom-style: dashed; }
+		&-dt { border-bottom-style: dotted; }
+		&-g { border-bottom-style: groove; }
+		&-h { border-bottom-style: hidden; }
+		&-i { border-bottom-style: inset; }
+		&-n { border-bottom-style: none; }
+		&-o { border-bottom-style: outset; }
+		&-r { border-bottom-style: ridge; }
+		&-s { border-bottom-style: solid; }
+	}
+}
