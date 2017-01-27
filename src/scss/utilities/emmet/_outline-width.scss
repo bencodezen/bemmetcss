@@ -1,0 +1,9 @@
+// ============================================================================
+// Outline Width Property and Values
+// ============================================================================
+
+.olw {
+	&-m { outline-width: medium; }
+	&-tc { outline-width: thick; }
+	&-tn { outline-width: thin; }
+}

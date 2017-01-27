@@ -1,0 +1,14 @@
+// ============================================================================
+// Outline Style Property and Values
+// ============================================================================
+
+.ols {
+	&-db { outline-style: double; }
+	&-ds { outline-style: dashed; }
+	&-dt { outline-style: dotted; }
+	&-g { outline-style: groove; }
+	&-i { outline-style: inset; }
+	&-n { outline-style: none; }
+	&-r { outline-style: ridge; }
+	&-s { outline-style: solid; }
+}

@@ -978,6 +978,45 @@
 .q-n {
   quotes: none; }
 
+.ol-n {
+  outline: none; }
+
+.olc-i {
+  outline-color: invert; }
+
+.ols-db {
+  outline-style: double; }
+
+.ols-ds {
+  outline-style: dashed; }
+
+.ols-dt {
+  outline-style: dotted; }
+
+.ols-g {
+  outline-style: groove; }
+
+.ols-i {
+  outline-style: inset; }
+
+.ols-n {
+  outline-style: none; }
+
+.ols-r {
+  outline-style: ridge; }
+
+.ols-s {
+  outline-style: solid; }
+
+.olw-m {
+  outline-width: medium; }
+
+.olw-tc {
+  outline-width: thick; }
+
+.olw-tn {
+  outline-width: thin; }
+
 .cps-b {
   caption-side: bottom; }
 
